@@ -88,7 +88,7 @@ const styles = StyleSheet.create({
         color: colors.text,
     },
     form: {
-        gap: spacingY._20,
+        gap: spacingY._20, 
     },
     forgotPassword: {
         textAlign: 'right',
