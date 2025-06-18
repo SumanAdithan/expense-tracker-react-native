@@ -5,7 +5,9 @@
         "baseUrl": "./",
         "paths": {
             "@assets": ["assets"],
+            "@config": ["config"],
             "@constants": ["constants"],
+            "@context": ["context"],
             "@components": ["components"],
             "@utils": ["utils"]
         }
